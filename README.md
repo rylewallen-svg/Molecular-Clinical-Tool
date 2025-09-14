@@ -1,7 +1,7 @@
 # Molecular-Clinical-Tool
 Molecular signaling pathway tool to identify the signaling cascade and effects  from drugs or pathologies
 
-[main page.txt](https://github.com/user-attachments/files/22319212/main.page.txt)
+(https://github.com/user-attachments/files/22319212/main.page.txt)
 <div style="display: flex; flex-direction: column; align-items: center;">
   <h1>Clinical Pathway Tool</h1>
   <h2>NF-κB Pathway Map</h2>
